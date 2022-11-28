@@ -1,3 +1,4 @@
+//  перетаскивает число в конец
 package Seminar_1;
 
 import java.util.Scanner;
