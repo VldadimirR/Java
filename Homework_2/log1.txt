@@ -1,0 +1,14 @@
+нояб. 28, 2022 6:57:26 PM Homework_2.Zad_1 main
+INFO: [8, 14, 2, 18, 53, 2, 81]
+нояб. 28, 2022 6:57:26 PM Homework_2.Zad_1 main
+INFO: [8, 2, 14, 18, 2, 53, 81]
+нояб. 28, 2022 6:57:26 PM Homework_2.Zad_1 main
+INFO: [2, 8, 14, 2, 18, 53, 81]
+нояб. 28, 2022 6:57:26 PM Homework_2.Zad_1 main
+INFO: [2, 8, 2, 14, 18, 53, 81]
+нояб. 28, 2022 6:57:26 PM Homework_2.Zad_1 main
+INFO: [2, 2, 8, 14, 18, 53, 81]
+нояб. 28, 2022 6:57:26 PM Homework_2.Zad_1 main
+INFO: [2, 2, 8, 14, 18, 53, 81]
+нояб. 28, 2022 6:57:26 PM Homework_2.Zad_1 main
+INFO: [2, 2, 8, 14, 18, 53, 81]
